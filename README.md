@@ -11,8 +11,8 @@ datasets found online for riftbound
 
 # how in the heck
 to get your own card set from your own hard working hands:
-. get to or CURL "https://playriftbound.com/en-us/card-gallery/"
-. last line is a 30Mb Json payload
-. ось і все ¯\_(ツ)_/¯
+- get to or CURL "https://playriftbound.com/en-us/card-gallery/"
+- last line is a 3Mb Json payload
+- ось і все ¯\_(ツ)_/¯
 
 as for the rules, they are from the official pdfs except translated into markdown
