@@ -1,6 +1,7 @@
 # changed 04-09-2026
 folderized and left in 'set data' from source
-looking for a way to keep track of the version from source
+
+Also looking for a way to keep track of the version from source
 
 # riftbound datasets
 datasets found online for riftbound
